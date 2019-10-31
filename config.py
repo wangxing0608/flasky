@@ -7,11 +7,11 @@ class Config:
     MAIL_SERVER = 'smtp.qq.com'
     MAIL_PORT = 25
     MAIL_USE_TLS = True
-    MAIL_USERNAME = '495801531@qq.com'
-    MAIL_PASSWORD = 'eastpvvysftncbda'
+    MAIL_USERNAME = ×××××××
+    MAIL_PASSWORD = ×××××××
     FLASKY_MAIL_SUBJECT_PREFIX = '[Flasky]'
-    FLASKY_MAIL_SENDER = 'Administrator Wang <495801531@qq.com>'
-    FLASKY_ADMIN = '15522536012@163.com'
+    FLASKY_MAIL_SENDER = ×××××××
+    FLASKY_ADMIN = ×××××××
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_RECORD_QUERIES = True
     FLASKY_POSTS_PER_PAGE = 20
